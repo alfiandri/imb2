@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "imb2",
+    "slug": "imb2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
