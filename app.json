@@ -1,10 +1,16 @@
 {
+  "name": "PermohonanIMB",
   "expo": {
     "name": "imb2",
     "slug": "imb2",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "8f191074-7e51-4526-84a7-7bb1b7e7b8ac"
+      }
+    }
   }
 }
